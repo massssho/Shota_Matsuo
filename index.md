@@ -3,6 +3,8 @@ Master's Student
 Dept. of Information and Communications Engineering,
 Institute of Science Tokyo, Japan
 
+E-mail: matsuo [at] sp.ict.e.titech.ac.jp
+
 ## Research Interests
 - Signal Processing
 - Optimization, Variational Inequality
