@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Shota Matsuo
 Master's Student
 Dept. of Information and Communications Engineering,
