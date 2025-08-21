@@ -1,1 +1,7 @@
-
+theme: minima
+title: Shota Matsuo
+header_pages:
+  - index.md
+  - about.md
+  - news.md
+  - publications.md
