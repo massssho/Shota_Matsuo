@@ -1,11 +1,11 @@
 # Shota Matsuo
-Master's Student
-Dept. of Information and Communications Engineering,
-Institute of Science Tokyo, Japan
-
+Master's Student,  
+[Dept. of Information and Communications Engineering](https://educ.titech.ac.jp/ict/eng/),  
+[Institute of Science Tokyo](https://www.isct.ac.jp/en), Japan  
+Member of [Prof. Isao Yamada's laboratory](http://www.sp.ce.titech.ac.jp/)  
 E-mail: matsuo [at] sp.ict.e.titech.ac.jp
 
-## Research Interests
+## Research Interest
 - Signal Processing
 - Optimization, Variational Inequality
 - Computational Game Theory
@@ -30,7 +30,7 @@ with quasi-nonexpansive operator".
 ## Preprints
 - **S. Matsuo**, K. Kume and I. Yamada, "Hierarchical Variational Inequality Problem for Noncooperative Game-Theoretic Selection of Generalized Nash Equilibrium," [arxiv](https://arxiv.org/abs/2504.03208).
 
-## Peer-Reviewed Articles in Conference Proceedings 
+## International Conferences (Peer-Reviewed)
 - **S. Matsuo**, K. Kume and I. Yamada, "Hierarchical Nash Equilibrium over Variational Equilibria via Fixed-point Set Expression of Quasi-nonexpansive Operator," _IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Hyderabad, India, 5 pages, April 2025. [official access](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10888469)
 
 ## Domestic Conferences
@@ -38,6 +38,10 @@ with quasi-nonexpansive operator".
 - **S. Matsuo**, K. Kume and I. Yamada, "A fair equilibrium selection via hierarchical non-cooperative game by the hybrid steepest descent method
 with quasi-nonexpansive operator," 電子情報通信学会第39回信号処理シンポジウム, Dec. 2024.
 - **松尾祥汰**, 久米啓太, 山田功, "ある種の一般化 Nash 均衡集合上で定義された均衡問題に関する一考察," 日本応用数理学会連合会第20回研究部会連合発表会, March 2024.
+
+## Education
+- M.E., Dept. of Information and Communications Engineering, Institute of Science Tokyo (formerly Tokyo Institute of Technology), Apr. 2024-Sep. 2025 (expected). 
+- B.E., Dept. of Information and Communications Engineering, Tokyo Institute of Technology, Apr. 2020-Mar. 2024. 
 
 ## Awards
 - Sep. 2024: [2024 Tokyo Tech Award for Student Leadership](https://www.isct.ac.jp/en/news/53zhxbefz4c0)
