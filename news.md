@@ -1,1 +1,4 @@
-
+---
+title: News
+layout: page
+---
