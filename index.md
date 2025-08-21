@@ -1,3 +1,8 @@
+---
+title: Top
+layout: page
+---
+
 # Shota Matsuo
 Master's Student,  
 [Dept. of Information and Communications Engineering](https://educ.titech.ac.jp/ict/eng/),  
