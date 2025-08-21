@@ -1,0 +1,17 @@
+---
+---
+
+@import "minima";
+/* ヘッダーをスクロールしても上部に固定 */
+.site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+/* ヘッダーの高さ分だけ本文を下げる */
+.site-content {
+  margin-top: 70px;  /* ヘッダーの高さに合わせて調整 */
+}
