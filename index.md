@@ -1,6 +1,6 @@
 ---
 title: Top
-layout: page
+layout: default
 ---
 
 # Shota Matsuo
