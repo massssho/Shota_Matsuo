@@ -4,17 +4,23 @@ layout: default
 ---
 
 [English](index.md)/Japanese
-***
+
+---
+
 # 松尾 祥汰
 [東京科学大学](https://www.isct.ac.jp/en) [工学院情報通信系](https://educ.titech.ac.jp/ict/eng/) 修士課程
 [山田功研究室](http://www.sp.ce.titech.ac.jp/) 所属 
 E-mail: matsuo [at] sp.ict.e.titech.ac.jp
-***
+
+---
+
 ## 研究分野
 - 信号処理
 - 数理最適化，変分不等式問題
 - 非協力ゲーム理論
-***
+
+---
+
 ## ニュース（最終更新日：2025/8/21）
 - 下記の[プレプリント情報](https://arxiv.org/abs/2504.03208)を更新しました．
   - **S. Matsuo**, K. Kume and I. Yamada, "Hierarchical Variational Inequality Problem for Noncooperative Game-Theoretic Selection of Generalized Nash Equilibrium".

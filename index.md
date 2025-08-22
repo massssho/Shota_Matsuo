@@ -2,20 +2,26 @@
 title: Top
 layout: default
 ---
-English/[Japanese](jananese.md)
-***
+English/[Japanese](japanese.md)
+
+---
+
 # Shota Matsuo
 Master's Student,  
 [Dept. of Information and Communications Engineering](https://educ.titech.ac.jp/ict/eng/),  
 [Institute of Science Tokyo](https://www.isct.ac.jp/en), Japan  
 Member of [Prof. Isao Yamada's laboratory](http://www.sp.ce.titech.ac.jp/)  
 E-mail: matsuo [at] sp.ict.e.titech.ac.jp
-***
+
+---
+
 ## Research Interest
 - Signal Processing
 - Optimization, Variational Inequality
 - Computational Game Theory
-***
+
+---
+
 ## News (Last updated: Aug. 21, 2025)
 - I updated the following [preprint](https://arxiv.org/abs/2504.03208).
   - **S. Matsuo**, K. Kume and I. Yamada, "Hierarchical Variational Inequality Problem for Noncooperative Game-Theoretic Selection of Generalized Nash Equilibrium".
