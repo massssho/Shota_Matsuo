@@ -1,5 +1,9 @@
 theme: minima
 title: Shota Matsuo - 松尾 祥汰
+url: "https://massssho.github.io"
+baseurl: ""
+author:
+  name: "Shota Matsuo"
 header_pages:
   - index.md
   - about.md
