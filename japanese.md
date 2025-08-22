@@ -8,8 +8,7 @@ layout: default
 ---
 
 # 松尾 祥汰
-[東京科学大学](https://www.isct.ac.jp/en) [工学院情報通信系](https://educ.titech.ac.jp/ict/eng/) 修士課程
-[山田功研究室](http://www.sp.ce.titech.ac.jp/) 所属 
+[東京科学大学](https://www.isct.ac.jp/en) [工学院情報通信系](https://educ.titech.ac.jp/ict/eng/) 修士課程　[山田功研究室](http://www.sp.ce.titech.ac.jp/) 所属 　
 E-mail: matsuo [at] sp.ict.e.titech.ac.jp
 
 ---
